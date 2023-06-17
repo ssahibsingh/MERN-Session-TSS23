@@ -1,8 +1,3 @@
----
-layout: default
-title: "Day 2: JavaScript"
----
-
 # Day 2: JavaScript
 
 ## Initial Learning
