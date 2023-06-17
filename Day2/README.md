@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 2: JavaScript
+title: "Day 2: JavaScript"
 ---
 
 # Day 2: JavaScript
