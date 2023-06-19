@@ -14,10 +14,15 @@
 5. [FAQs](https://github.com/Yuvraj3905/mini-project-faqs-js)
 
 ## Resources
-[MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[DOM](https://www.w3schools.com/js/js_htmldom.asp)
-[DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
-[Synchronous/Asynchronous](https://www.geeksforgeeks.org/synchronous-and-asynchronous-in-javascript/)
 
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- [DOM](https://www.w3schools.com/js/js_htmldom.asp)
+
+- [DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+
+- [Synchronous/Asynchronous](https://www.geeksforgeeks.org/synchronous-and-asynchronous-in-javascript/)
 
 ## Content
+
+[Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ssahibsingh/MERN-Session-TSS23/tree/main/Day2/lecture-content)
