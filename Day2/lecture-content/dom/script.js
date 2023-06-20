@@ -5,8 +5,14 @@
 
 
 
+// console.log(document.getElementsByTagName("p")[1])
+// console.log(document.getElementByTagName("p"))
+
+
 // const p = document.getElementsByTagName("p");
 // console.log(p);
+
+// console.log(document.getElementById("message"));
 
 
 
@@ -15,7 +21,7 @@
 // const p = document.querySelector('*');
 
 // ! 2. type selector (element name)
-// const p = document.querySelector('h1');
+// const p = document.querySelector('p');
 // console.log(p);
 
 // ! 3. class selector
@@ -29,10 +35,17 @@
 // const p = document.querySelector('#message');  
 
 
+// document.write("Hello World")
 
 
 
 // Creating Element with JS
+{/* Create Element
+   * Add Element to HTML
+    * Attach Element to document 
+/}
+
+
 
 {/* <div>
 <p>CreateElement example</p>
@@ -55,7 +68,7 @@
 // console.log(div);
 
 // ? adding a class to div,
-// div.class="createdClass"
+// div.className ="createdClass"
 // console.log(div);
 
 
