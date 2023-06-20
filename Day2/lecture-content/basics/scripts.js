@@ -7,6 +7,7 @@
 var x = 45;
 console.log(x);
 let y = 34;
+
 y = 100;
 console.log(y);
 
