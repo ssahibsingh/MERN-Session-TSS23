@@ -1,6 +1,6 @@
 # MERN-Session-TSS23
 
-## Schedule
+## Our Schedule
 
 * Day 1: HTML + CSS + Bootstrap + Git/Github [Link](https://ssahibsingh.github.io/MERN-Session-TSS23/Day1)
 * Day 2: JS [Link](https://ssahibsingh.github.io/MERN-Session-TSS23/Day2)
