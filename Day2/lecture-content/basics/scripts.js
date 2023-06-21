@@ -1,14 +1,16 @@
-//! ===================================  INTRO  ====================================
+    //! ===================================  INTRO  ====================================
 
 // document.write('hello');
 // console.log('BASIC JS');
 
+// ES6
+// let and const
 // ?variables
-var x = 45;
-console.log(x);
-let y = 34;
-y = 100;
-console.log(y);
+// var x = 45;
+// console.log(x);
+// let y = 34;
+// y = 100;
+// console.log(y);
 
 // ?constant
 // const z = 56;
@@ -19,6 +21,10 @@ console.log(y);
 
 // let x = true
 // console.log(typeof y);
+
+
+// let x = [1,2,3,4,5,6,7,8,9,10];
+// console.log(typeof x);
 
 // ! ================================== TYPES OF OPERATORS ==============================
 
@@ -44,6 +50,10 @@ console.log(y);
 // * Strict equal ( === ) -> check data type + value
 // * Strict Not equal ( !== )  -> check data type + value
 
+
+// console.log( 2 == '2')
+// console.log( 2 === '2')
+
 // let a = 10;
 // console.log(a > 56);
 
@@ -68,6 +78,8 @@ console.log(y);
 // * Logical AND -> &&
 // * Logical OR -> ||
 // * Logical NOT -> !
+
+
 
 // ! ================================ CONDITIONAL STATEMENTS =========================
 
@@ -97,11 +109,11 @@ console.log(y);
 
 // let w = -12;
 // if (w > 0) {
-//   console.log('positive');
+//     console.log('positive');
 // } else if (w < 0) {
-//   console.log('negative');
+//     console.log('negative');
 // } else {
-//   console.log('Zero');
+//     console.log('Zero');
 // }
 
 //! ====================================== LOOPS ===========================================
