@@ -1,4 +1,4 @@
-# Day 5,6: Express.js, MongoDB, API Development 
+# Day 5, 6: Express.js, MongoDB, API Development 
 
 ## Major Projects
 
