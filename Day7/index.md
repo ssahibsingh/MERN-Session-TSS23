@@ -3,6 +3,7 @@
 ## Major Projects
 
 [Ecommerce Frontend](https://github.com/ssahibsingh/tss-react-ecommerce)
+
 [Ecommerce Backend](https://github.com/ssahibsingh/tss-ecommerce-backend)
 
 ## Resources
@@ -18,4 +19,5 @@
 ## Content
 
 [Download Link: Backend](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ssahibsingh/tss-express-ecommerce)
+
 [Download Link: Frontend](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ssahibsingh/tss-react-ecommerce)
