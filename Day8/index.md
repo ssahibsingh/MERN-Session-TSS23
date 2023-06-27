@@ -2,7 +2,8 @@
 
 ## Major Projects
 
-[Blogging Platform](https://github.com/ssahibsingh/tss-nextjs-blog)
+1. [Blogging Platform](https://github.com/ssahibsingh/tss-nextjs-blog)
+2. [Blogging Platform with MongoDB](https://github.com/ssahibsingh/next-blog)
 
 ## Resources
 
